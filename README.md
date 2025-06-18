@@ -25,6 +25,6 @@ Install dependencies:
 
 ```bash
 pip install openai
-vvvvvvv
+
 
 
