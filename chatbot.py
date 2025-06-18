@@ -2,7 +2,7 @@ from openai import OpenAI
 import random
 
 
-OPEN_AI_KEY = "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"  # Replace with your actual OpenAI key
+OPEN_AI_KEY = "API key"  # Replace with your actual OpenAI key
 
 
 # Predefined trailblazers list
